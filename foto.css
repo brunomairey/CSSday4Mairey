@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0 !important; }
+
+.container {
+  width: 80%;
+  border: solid blue; }
+
+.image {
+  height: 1800px; }
+
+#dachstein {
+  background: url("dachstein.jpg") 50% 50% no-repeat;
+  background-size: cover;
+  height: 400px; }
+
+#dusika {
+  background: url("dusika.jpg") 50% 100% no-repeat;
+  background-size: cover;
+  height: 400px; }
+
+#horn {
+  background: url("horn.jpg") 50% 50% no-repeat;
+  background-size: cover;
+  height: 400px; }
+
+.text {
+  position: relative;
+  color: blue;
+  top: 15%;
+  left: 15%;
+  font-size: 36px; }
+
+/*# sourceMappingURL=foto.css.map */
